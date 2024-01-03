@@ -6,7 +6,7 @@ void main(int argc, char* argv[])
 {
 	
 
-	::testing::GTEST_FLAG(filter) = "MultipatcheDerivation.EdgeReferencedDerivationAxe2";
+	::testing::GTEST_FLAG(filter) = "FunctionApproximation.XtimesSinusFunctionG1";
 	
 	
 	::testing::InitGoogleTest(&argc, argv);
